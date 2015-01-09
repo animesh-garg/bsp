@@ -20,3 +20,4 @@ forces/*.zip
 forces/*.mexa64
 forces/beliefPenaltyMPC
 forces/controlMPC
+papers/*
